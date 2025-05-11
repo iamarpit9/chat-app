@@ -1,6 +1,6 @@
 # React + Vite
 
--[LIVE LINK](https://chat-app-git-main-iamarpit9s-projects.vercel.app/)
+-[LIVE LINK](https://chat-app-peach-five.vercel.app)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
